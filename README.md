@@ -8,17 +8,13 @@
 
 ## Core Skills Demonstrated:
 
-Data Analytics · Time-Series Aggregation · KPI Design · Business Rules · Decision Support · Power BI
+Data Analytics · Time-Series Aggregation · KPI Design · Operations Intelligence · Decision Support · Power BI
 
 ![Dashboard Demo](docs/demo.gif)
 
 
 
 
-
-# Warehouse Operations Analytics Dashboard
-
-# Power BI | Data Analytics | Operations Intelligence
 
 ## 1\. Business Context
 
@@ -123,5 +119,6 @@ This project demonstrates applied data analytics skills in:
 - Operational risk monitoring
 - Analytics-driven decision support
 - Scalable dashboard architecture
+
 
 
