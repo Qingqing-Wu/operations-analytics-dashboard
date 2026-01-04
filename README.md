@@ -10,6 +10,8 @@
 
 Data Analytics · Time-Series Aggregation · KPI Design · Business Rules · Decision Support · Power BI
 
+![Dashboard Demo](docs/demo.gif)
+
 
 
 
@@ -121,4 +123,5 @@ This project demonstrates applied data analytics skills in:
 - Operational risk monitoring
 - Analytics-driven decision support
 - Scalable dashboard architecture
+
 
