@@ -10,7 +10,9 @@
 
 ## Core Skills Demonstrated:
 
-Data Analytics · Time-Series Aggregation · KPI Design · Operations Intelligence · Decision Support · Power BI
+Core Skills Demonstrated:
+Data Analytics · Data Validation & Reconciliation · Operational Analysis · Exception Detection · KPI Monitoring · Decision Support
+
 
 ![Dashboard Demo](docs/demo.gif)
 
@@ -116,6 +118,7 @@ This project demonstrates applied data analytics skills in:
 - Operational risk monitoring
 - Analytics-driven decision support
 - Scalable dashboard architecture
+
 
 
 
