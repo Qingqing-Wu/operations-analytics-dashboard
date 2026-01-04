@@ -89,6 +89,7 @@ Daily operational snapshots (Excel-based, SQL-ready)
 
 ### Analytical Flow:
 
+<img src="docs/workflow.gif" width="800">
 Operational Data
 → Power BI Semantic Model
 → Measure-Based Metrics \& Business Rules
@@ -119,6 +120,7 @@ This project demonstrates applied data analytics skills in:
 - Operational risk monitoring
 - Analytics-driven decision support
 - Scalable dashboard architecture
+
 
 
 
