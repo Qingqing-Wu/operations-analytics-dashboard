@@ -14,7 +14,7 @@ Data Analytics · Time-Series Aggregation · KPI Design · Operations Intelligen
 
 
 
-
+# Executive Summary
 
 ## 1\. Business Context
 
@@ -119,6 +119,7 @@ This project demonstrates applied data analytics skills in:
 - Operational risk monitoring
 - Analytics-driven decision support
 - Scalable dashboard architecture
+
 
 
 
